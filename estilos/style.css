@@ -146,18 +146,17 @@
     font-family: 'Shadows Into Light', cursive;
   }
 
-.contenedorCont {background:rgba(251, 251, 251, 0.3); font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: large;}
-.contenedorCont h3{border:solid rgb(144, 156, 228);
+  .contenedorCont {background:rgba(251, 251, 251, 0.3); font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: large;}
+  .contenedorCont h3{border:solid rgb(144, 156, 228);
   font-size: 30px;text-align: center;}
-.contenedorCont p{margin-left: 50px; margin-right: 50px; text-align: justify;}
-.contenedorCont img{margin:10px auto; display:block;width: 600px;}
+  .contenedorCont p{margin-left: 50px; margin-right: 50px; text-align: justify;}
+  .contenedorCont img{margin:10px auto; display:block;width: 600px;}
 
-.masinformacion{background-color:rgba(251, 251, 251, 0.3); font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: large;}
-.masinformacion h1{border: solid darkgoldenrod ; text-align: center;}
-.masinformacion h3{font-size: 30px;text-align:left;}
-.masinformacion p{margin-left: 50px; margin-right: 50px; text-align: justify;}
-.masinformacion img{margin:10px auto; display:inline-flex; width: 300px; height: 300px; margin-left: 25px;}
+  .masinformacion{background-color:rgba(251, 251, 251, 0.3); font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: large;}
+  .masinformacion h1{border: solid darkgoldenrod ; text-align: center;}
+  .masinformacion h3{font-size: 30px;text-align:left;}
+  .masinformacion p{margin-left: 50px; margin-right: 50px; text-align: justify;}
+  .masinformacion img{margin:10px auto; display:inline-flex; width: 300px; height: 300px; margin-left: 25px;}
 
-#info{background-color:rgba(251, 251, 251, 0.3)}
-
-.contenedor{float: right;}
+  #info{background-color:rgba(251, 251, 251, 0.3)}
+  .contenedor{float: right;}
