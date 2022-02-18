@@ -9,10 +9,10 @@
   }
   
   #fondo{
-  background: url(../imagenes/screen-0.jpg);
-  height: 90vh;
-  background-position: center;
-  background-size: cover;
+    background: url(../imagenes/screen-0.jpg);
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
   }
   
   .contenedorTitu{
